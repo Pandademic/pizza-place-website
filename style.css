@@ -1,0 +1,13 @@
+#body{
+   background-color: cadetblue;
+
+}
+.menu{
+    background-color: aliceblue;
+}
+.menu_item{
+    background-color: gold;
+    border-radius: 20px;
+    width: 100px;
+    height: 100px;;
+}
